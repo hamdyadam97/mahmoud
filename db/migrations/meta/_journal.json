@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1791113135019,
+      "tag": "0000_steep_the_captain",
+      "breakpoints": true
+    }
+  ]
+}
