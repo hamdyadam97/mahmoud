@@ -110,97 +110,97 @@
  * تعذّر توليد كلاسات الأدوات لأي سبب في بيئة النشر
  */
 .bg-navy {
-  background-color: #b91c1c;
+  background-color: #8A5D31;
 }
 .bg-navy-800 {
-  background-color: #991b1b;
+  background-color: #704C2B;
 }
 .bg-navy-900 {
-  background-color: #7f1d1d;
+  background-color: #5B3E26;
 }
 .text-navy,
 .text-navy-900 {
-  color: #7f1d1d;
+  color: #5B3E26;
 }
 .from-navy {
-  --tw-gradient-from: #b91c1c var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(185 28 28 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-from: #8A5D31 var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(138 93 49 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 .from-navy\/80 {
-  --tw-gradient-from: rgb(185 28 28 / 0.8) var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(185 28 28 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-from: rgb(138 93 49 / 0.8) var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(138 93 49 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 .via-navy\/85 {
-  --tw-gradient-to: rgb(185 28 28 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), rgb(185 28 28 / 0.85) var(--tw-gradient-via-position), var(--tw-gradient-to);
+  --tw-gradient-to: rgb(138 93 49 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), rgb(138 93 49 / 0.85) var(--tw-gradient-via-position), var(--tw-gradient-to);
 }
 .to-navy {
-  --tw-gradient-to: #b91c1c var(--tw-gradient-to-position);
+  --tw-gradient-to: #8A5D31 var(--tw-gradient-to-position);
 }
 .from-red-950\/70 {
-  --tw-gradient-from: rgb(69 10 10 / 0.7) var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(69 10 10 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-from: rgb(51 32 15 / 0.7) var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(51 32 15 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 .via-red-950\/40 {
-  --tw-gradient-to: rgb(69 10 10 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), rgb(69 10 10 / 0.4) var(--tw-gradient-via-position), var(--tw-gradient-to);
+  --tw-gradient-to: rgb(51 32 15 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), rgb(51 32 15 / 0.4) var(--tw-gradient-via-position), var(--tw-gradient-to);
 }
 .to-red-950\/80 {
-  --tw-gradient-to: rgb(69 10 10 / 0.8) var(--tw-gradient-to-position);
+  --tw-gradient-to: rgb(51 32 15 / 0.8) var(--tw-gradient-to-position);
 }
 .bg-brand,
 .bg-brand-500 {
-  background-color: #dc2626;
+  background-color: #C08B4E;
 }
 .bg-brand-600 {
-  background-color: #b91c1c;
+  background-color: #A9763C;
 }
 .bg-brand-100 {
-  background-color: #fee2e2;
+  background-color: #F5EBDA;
 }
 .text-brand,
 .text-brand-500 {
-  color: #dc2626;
+  color: #C08B4E;
 }
 .text-brand-400 {
-  color: #f87171;
+  color: #D0A26C;
 }
 .text-brand-600 {
-  color: #b91c1c;
+  color: #A9763C;
 }
 
-/* نسخ احتياطية يدوية لكلاسات اللون الأحمر المستخدمة في الصفحة الرئيسية */
+/* نسخ احتياطية يدوية لكلاسات لون الهوية المستخدمة في الصفحة الرئيسية */
 .bg-red-600 {
-  background-color: #dc2626;
+  background-color: #A9763C;
 }
 .hover\:bg-red-700:hover,
 .bg-red-700 {
-  background-color: #b91c1c;
+  background-color: #8A5D31;
 }
 .bg-red-100 {
-  background-color: #fee2e2;
+  background-color: #F5EBDA;
 }
 .text-red-400 {
-  color: #f87171;
+  color: #D0A26C;
 }
 .text-red-600 {
-  color: #dc2626;
+  color: #A9763C;
 }
 .text-red-700 {
-  color: #b91c1c;
+  color: #8A5D31;
 }
 .fill-red-400 {
-  fill: #f87171;
+  fill: #D0A26C;
 }
 .border-red-200 {
-  border-color: #fecaca;
+  border-color: #EAD5B8;
 }
 .hover\:text-red-400:hover {
-  color: #f87171;
+  color: #D0A26C;
 }
 .hover\:border-red-400\/40:hover {
-  border-color: rgb(248 113 113 / 0.4);
+  border-color: rgb(208 162 108 / 0.4);
 }

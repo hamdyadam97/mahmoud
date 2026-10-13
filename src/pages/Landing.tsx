@@ -67,7 +67,7 @@ const USP_ICONS = [Truck, Users, ShieldCheck, BadgePercent];
 
 const HERO_STATS = [
   { value: "24/7", label: "خدمة العملاء" },
-  { value: "+8", label: "مدن القصيم مغطاة" },
+  { value: "+13", label: "منطقة مغطاة بالمملكة" },
   { value: "100%", label: "ضمان الجودة" },
 ];
 
@@ -114,7 +114,7 @@ function Header() {
           <span className="leading-tight">
             <span className="block text-lg font-black text-white">{SITE.name}</span>
             <span className="block text-[11px] font-medium text-slate-300">
-              لنقل العفش والأثاث بالقصيم
+              لنقل العفش والأثاث — القصيم وجميع أنحاء المملكة
             </span>
           </span>
         </a>
@@ -193,16 +193,17 @@ function Hero() {
       <div className="relative mx-auto w-full max-w-4xl px-4 pb-16 pt-28 text-center">
         <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-4 py-1.5 text-sm font-bold text-slate-100 ring-1 ring-white/20 backdrop-blur">
           <span className="h-2 w-2 rounded-full bg-red-400" />
-          خدمات نقل عفش موثوقة ومضمونة
+          أفضل شركة نقل أثاث ببريدة
         </span>
         <h1 className="mt-5 text-3xl font-black leading-snug sm:text-5xl sm:leading-tight">
           نقل أثاثك بأمان
           <br />
-          <span className="text-red-300">في بريدة وجميع مدن القصيم</span>
+          <span className="text-red-300">في جميع أنحاء المملكة</span>
         </h1>
         <p className="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-slate-300 sm:text-lg">
-          خدمات نقل وفك وتركيب الأثاث الاحترافية مع تغطية شاملة لبريدة وعنيزة والرس وجميع مدن
-          المنطقة. فريق محترف، أرخص الأسعار، وضمان كامل على جميع المنقولات.
+          خدمات نقل وفك وتركيب الأثاث الاحترافية بتركيز خاص على بريدة وجميع مدن القصيم،
+          وتغطية شاملة تصل لجميع أنحاء المملكة. فريق محترف، أرخص الأسعار، وضمان كامل على
+          جميع المنقولات.
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-3">
           <a
@@ -766,8 +767,9 @@ function Footer() {
             <span className="text-lg font-black text-white">{SITE.fullName}</span>
           </div>
           <p className="mt-4 text-sm leading-relaxed">
-            وجهتك الأولى لنقل العفش والأثاث في بريدة وجميع مدن القصيم — فك وتركيب، تغليف آمن،
-            وأسطول حديث بضمان شامل وأسعار تنافسية.
+            وجهتك الأولى لنقل العفش والأثاث — أفضل شركة نقل أثاث ببريدة بتغطية تشمل جميع
+            أنحاء المملكة مع تركيز خاص على القصيم. فك وتركيب، تغليف آمن، وأسطول حديث بضمان
+            شامل وأسعار تنافسية.
           </p>
           <p className="mt-3 text-sm font-bold text-red-300">{SITE.slogan}</p>
         </div>
