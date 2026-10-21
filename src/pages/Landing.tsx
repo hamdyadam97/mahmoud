@@ -183,11 +183,10 @@ function Hero() {
     <section id="hero" className="relative flex min-h-[92vh] items-center overflow-hidden bg-navy text-white">
       <div className="absolute inset-0">
         <img
-          src="/images/hero.jpg"
-          alt="شاحنة نقل عفش حديثة ومجهزة أمام منزل عصري مع فنيين بزي موحد — شركة التابل ببريدة"
+          src="/images/wrapping.jpg"
+          alt="فنيون محترفون يغلفون الأثاث بتغليف محكم داخل منزل — شركة التابل بالقصيم"
           className="h-full w-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-red-950/70 via-red-950/40 to-red-950/80" />
       </div>
       <Header />
       <div className="relative mx-auto w-full max-w-4xl px-4 pb-16 pt-28 text-center">
