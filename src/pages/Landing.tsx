@@ -398,8 +398,8 @@ function Fleet() {
     <section id="fleet" className="scroll-mt-20 bg-slate-50 py-16">
       <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 lg:grid-cols-2">
         <img
-          src="/images/fleet-desert.jpg"
-          alt="أسطول شركة التابل — دينات وشاحنات نقل عفش حديثة ومجهزة ببريدة"
+          src="/images/fleet-packing.jpg"
+          alt="شركة التابل — تغليف العفش بالكراتين والنايلون المخصص قبل النقل ببريدة"
           className="w-full rounded-2xl object-cover shadow-2xl"
           loading="lazy"
         />
